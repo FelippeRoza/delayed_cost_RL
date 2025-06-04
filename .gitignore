@@ -1,0 +1,52 @@
+# project specific folers and files
+# training logs
+logs/
+# model checkpoints
+models/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Python egg metadata
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+
+# Test output
+htmlcov/
+.coverage
+.tox/
+.nox/
+
+# Environment variables
+.env
+.env.*
+
+# Pyright, mypy, and other type checker caches
+.pyright/
+.mypy_cache/
+
+# Other
+*.swp
